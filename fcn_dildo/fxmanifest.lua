@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'LWRP.CZ'
+author 'LWRP.CZ | VietnamecDevelopment'
 description ''
 lua54 'yes'
 version '1.0.0'
